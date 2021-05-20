@@ -21,3 +21,6 @@ venv/
 htmlcov
 .eggs
 coverage.xml
+*.o
+*.bc
+klee-*
